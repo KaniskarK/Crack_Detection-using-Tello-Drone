@@ -7,5 +7,5 @@ $ cd Crack_Detection-using-Tello-Drone
 ```
 Install dependencies
 ```
-$ pip3 djitellopy
+$ pip3 install djitellopy
 ```
